@@ -15,7 +15,7 @@ if (c<5)
     console.log ("el numwro es menor a 5")
 }
 else {
-    console.log ("el numero es menor a 5")
+    console.log ("el numero es mayor a 5")
 }
 
 
